@@ -16,3 +16,20 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+article{
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+article h3{
+    color: darkblue;
+    text-align:center;
+}
+article p{
+    line-height: 1.6;
+}
